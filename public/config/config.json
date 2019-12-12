@@ -1,0 +1,7 @@
+{
+  "url": {
+    "login": "http://122.112.175.30:18085/gaea-login-server",
+    "base": "http://122.112.175.30:18084/gaea-auth-server"
+  },
+  "menu": []
+}
